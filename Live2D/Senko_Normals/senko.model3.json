@@ -51,7 +51,10 @@
     {
       "Target": "Parameter",
       "Name": "LipSync",
-      "Text": ""
+      "Text": "",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
     }
   ],
   "HitAreas": [
